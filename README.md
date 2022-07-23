@@ -1,5 +1,6 @@
 # Securing Azure: The Checklist
-
+<br>
+<br>
 1. Understand the shared responsibility model and the chosen cloud strategy - clear delineation between our responsibility and the customer's.
 
 2. Manage identities using Azure Active Directory. Enable SSO to alleviate potential issues revolving around weak passwords.
