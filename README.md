@@ -6,7 +6,7 @@ Strategy:
 
 💡 Understand the shared responsibility model and the chosen cloud strategy - clear delineation between our responsibility and the customer's.
 
-**Identities and Access Management:**
+<h2>**Identities and Access Management:**</h2>
 
 ✔ Manage identities using Azure Active Directory. Enable SSO to alleviate potential issues revolving around weak passwords.
 
@@ -14,7 +14,7 @@ Strategy:
 
 ✔ Azure Key Vault should be used for cryptographic keys, secrets, and certificates.
 
-**Security and Endpoint Protection:**
+<h2>**Security and Endpoint Protection:**</h2>
 
 ✔ Azure Security Center utilization is a must; understand alerts, the secure score, and follow suggestions where appropriate. If hybrid, use Azure Defender.
 
@@ -26,7 +26,7 @@ Strategy:
 
 ✔ Enabling endpoint protection allows Azure Security Center to push endpoint protection for provisioning of all Windows VMs and helps identify malicious software.
 
-**Networks and Encryption:**
+<h2>**Networks and Encryption:**</h2>
 
 ✔ Network access must have a layered approach:
 
