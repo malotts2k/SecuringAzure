@@ -31,9 +31,7 @@
 ✔ Network access must have a layered approach:
 
   * Azure firewall or a 3rd party virtual network appliance
-  
   *  Use Network Security Groups (NSGs) for traffic filtering to and from Azure virtual networks
-  
   * Apply NSGs to VM NICs to regulate traffic to and from virtual machines
   
 ✔ Enable encryption for data in transit and at rest where authorized.
