@@ -2,7 +2,7 @@
 <br>
 <br>
 
-Strategy:
+<h2>Strategy:</h2>
 
 💡 Understand the shared responsibility model and the chosen cloud strategy - clear delineation between our responsibility and the customer's.
 
